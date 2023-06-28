@@ -12,8 +12,6 @@ public:
     void Play() {
 
         DrawBoard(); // Draws the board
-        //Hello World
-        // B!xh
     }
 
 private:
